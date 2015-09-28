@@ -1,0 +1,3 @@
+﻿.main           { background-color:darkgray; width:80vh; height:80vh; margin: 10% auto 0px auto;}
+.mainLeft       { background-color:azure; width:48%; height:48%; margin: 10px 0px 0px 10px; float: left}
+.mainRight      { background-color:bisque; width:48%; height:48%; margin: 10px 10px 0px 00px; float: right}
