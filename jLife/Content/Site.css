@@ -1,3 +1,4 @@
-﻿.main           { background-color:darkgray; width:80vh; height:80vh; margin: 10% auto 0px auto;}
-.mainLeft       { background-color:azure; width:48%; height:48%; margin: 10px 0px 0px 10px; float: left}
-.mainRight      { background-color:bisque; width:48%; height:48%; margin: 10px 10px 0px 00px; float: right}
+﻿.main           { background-color:darkgray; width:140vh; height:80vh; margin: 0px auto 0px auto; }
+.mainLeft       { background-color:azure; width:49%; height:48%; margin: 10px 0px 0px 10px; float: left }
+.mainRight      { background-color:bisque; width:49%; height:48%; margin: 10px 10px 0px 00px; float: right }
+.jLife          { background-color:crimson; width:140vh; height:5vh; margin: 0px auto 0px auto; }
