@@ -1,4 +1,6 @@
-﻿.main           { background-color:darkgray; width:140vh; height:80vh; margin: 0px auto 0px auto; }
-.mainLeft       { background-color:azure; width:49%; height:48%; margin: 10px 0px 0px 10px; float: left }
-.mainRight      { background-color:bisque; width:49%; height:48%; margin: 10px 10px 0px 00px; float: right }
-.jLife          { background-color:crimson; width:140vh; height:5vh; margin: 0px auto 0px auto; }
+﻿.main           { background-color:#f8f8f8; width:140vh; height:80vh; margin: 0px auto 0px auto; }
+.mainLeft       { background-color:#7389a5; width:25%; height:100%; float: left }
+.mainRight      { background-color:#f8f8f8; width:75%; height:100%; float: right }
+.jLife          { background-color:#428bca; color: #f8f8f8; width:140vh; height:5vh; margin: 0px auto 0px auto; }
+.footer         { background-color:#428bca; color: #f8f8f8; width:140vh; height:5vh; margin: 0px auto 0px auto; }
+body            { background-color:#2b4970}
